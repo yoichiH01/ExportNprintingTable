@@ -13,3 +13,6 @@ Qlik Nprinting September 2018
 
 # Disclaimer
 The scripts is not supported by Qlik. Please use it on your own risk. 
+
+# License
+This project is provided "AS IS", without any warranty, under the MIT License - see the LICENSE file for details
